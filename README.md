@@ -3,7 +3,7 @@
 🙂 I’m interested in web developement, software developement, OS developement, tech product design and setting up a company for their production.
     Besides, my hobbies are photography, videography, photo-video editing, graphic design, craft making
     
-🌱 I’m currently learning java, c++, python, HTML, Adobe photoshop, Illustrator, Filmora, Sketchup, Matlab, ets😅
+🌱 I’m currently learning java, c++, python, HTML and Adobe photoshop, Illustrator, Premiere, Sketchup, Matlab, etc😅
 
 🤝 I’m looking to collaborate on Android App Developement, but in or after 2022(after learning and practicing enough of it), I do have ideas for apps.
 
