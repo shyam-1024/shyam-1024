@@ -3,25 +3,22 @@
 🙂 I’m interested in web developement, software developement, OS developement, tech product design and setting up a company for their production.
     Besides, my hobbies are photography, videography, photo-video editing, graphic design, craft making
     
-🌱 I’m currently learning java, c++, python, HTML and Adobe photoshop, Illustrator, Premiere, Sketchup, Matlab, etc😅
+🌱 I’m currently learning Java, C++, Data Structures, Python, HTML;
+    and Blender, Adobe photoshop, Illustrator, Premiere, Sketchup, Matlab, etc😅
 
 🤝 I’m looking to collaborate on Android App Developement, but in or after 2022(after learning and practicing enough of it), I do have ideas for apps.
 
 📶 How to reach me: 
 
-Instagram :   https://www.instagram.com/visionary_shyam/
+Facebook    :   https://www.facebook.com/everythingshyam1
 
-Facebook  :   https://www.facebook.com/shyam.sundartiwari.5477
+YouTube     :   https://www.youtube.com/channel/UCM6mQu1M8BVUi5H3uFnP1Gw
 
-Twitter   :   https://twitter.com/visionary_shyam
-
-replIt    :   https://replit.com/@shyam1024
-
-Telegram  :   https://www.telegram.com/shyam1024
+Instagram   :   Account deleted, for better life😅
 
 💼 OVERALL, THE GOALS OF MY LIFE ARE:
 
--to see India shining in terms of technology
+-to see India shine in terms of technology
 
 -set up a habit of more organised developement in the society
 
