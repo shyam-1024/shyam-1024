@@ -1,6 +1,6 @@
 👋 Hi, I’m @shyam-1024
 
-🙂 I’m interested in web developement, software developement, OS developement, tech product design and setting up a company for their production.
+🙂 I’m interested in software developement, OS developement, AI, tech product design and setting up a company for their production.
     Besides, my hobbies are photography, videography, photo-video editing, graphic design, craft making
     
 🌱 I’m currently learning Java, C++, Data Structures, Python, HTML;
@@ -10,11 +10,9 @@
 
 📶 How to reach me: 
 
-Facebook    :   https://www.facebook.com/everythingshyam1
-
 YouTube     :   https://www.youtube.com/channel/UCM6mQu1M8BVUi5H3uFnP1Gw
 
-Instagram   :   Account deleted, for better life😅
+Instagram   :   www.instagram.com/everythingshyam
 
 💼 OVERALL, THE GOALS OF MY LIFE ARE:
 
